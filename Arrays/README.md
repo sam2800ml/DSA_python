@@ -34,4 +34,10 @@ we can have the following:
 ## Applications in Matrix Operations
 for matrix operations we use numpy, numpy is a library in python which helps us to being able to operate them, to create the arrays, and to do multiple procces with it, is the main one used ini a lot of the process
 
+## Slicing an array
+if we have an array with a big dimension we can use slicing to be able to capture an specific part of the array, and its done the following way"
+>
+array[start:stop:step]
+>
+
 
